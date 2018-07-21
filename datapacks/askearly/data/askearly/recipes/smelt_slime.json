@@ -1,0 +1,9 @@
+{
+  "type":"smelting",
+  "ingredient": {
+    "item":"minecraft:slime_ball"
+  },
+  "result":"minecraft:slime_block",
+  "experience":50,
+  "cookingtime":1
+}
