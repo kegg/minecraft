@@ -1,0 +1,9 @@
+{
+  "type":"smelting",
+  "ingredient": {
+    "item":"minecraft:glowstone_dust"
+  },
+  "result":"minecraft:glowstone",
+  "experience":20,
+  "cookingtime":1
+}
